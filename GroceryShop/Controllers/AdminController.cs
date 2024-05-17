@@ -25,5 +25,14 @@ namespace GroceryShop.Controllers
             return View(contact);
         }
 
+        public IActionResult AddProducts()
+        {
+            //var add=
+
+            return View(contact);
+        }
+
+
+
     }
 }
